@@ -1,4 +1,4 @@
-# 🏥 Telemedicine Digital Twin Architecture (PSM)
+# 🏥 Progettazione di Software Medicali (PSM)
 
 This repository contains the architectural and conceptual models for a **Digital Twin** and **Telemonitoring System** applied to telemedicine. The project focuses on the system administration, clinical evaluation workflows, and patient interactions.
 
