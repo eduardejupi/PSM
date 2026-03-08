@@ -1,0 +1,9 @@
+# Ignore Peer review document
+Peer review.*
+"Peer review.*"
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

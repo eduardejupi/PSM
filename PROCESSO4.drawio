@@ -1,0 +1,677 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2" pages="3">
+  <diagram name="DIAGRAMMI GIUSTI" id="lYFct_no-UgJOr_PfiYE">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-0" />
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-1" parent="QSOpgeNHwHHf_JCrBZqf-0" />
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-2" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="117.25" width="170" x="898" y="801.38" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-3" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;" value="" vertex="1">
+          <mxGeometry height="231" width="811" x="84" y="744.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-4" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Synopsis&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="89" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-5" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="&lt;div&gt;PROCESSO 4:&amp;nbsp;&lt;/div&gt;&lt;div&gt;monitoraggio parametri fisiologici&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="340" x="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-6" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="74.07999999999993" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-7" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="&lt;b&gt;&lt;font&gt;WORKFLOW&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-8" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;SWIM LANE&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="203" x="38.49999999999999" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-9" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-10" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;" value="MONITORAGGIO PARAMETRI FISIOLOGICI" vertex="1">
+          <mxGeometry height="80" width="136" x="334.33" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-11" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-12" parent="QSOpgeNHwHHf_JCrBZqf-1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;size=0.11764705882352941;align=center;" value="&lt;div&gt;&lt;span&gt;Raggiungimento numero massimo di dati trasmissibili&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;in un pacchetto sul&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;SW Piattaforma Telemonitoraggio&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="80" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-13" parent="QSOpgeNHwHHf_JCrBZqf-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Digital Twin" vertex="1">
+          <mxGeometry height="60" width="30" x="491.17" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-14" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=classic;html=1;rounded=0;entryX=0.944;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" target="QSOpgeNHwHHf_JCrBZqf-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="530" y="300" as="sourcePoint" />
+            <mxPoint x="550.3299999999999" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-15" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dati inviati a DT e SW Cartella Specialistica&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="600.3299999999999" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-16" parent="QSOpgeNHwHHf_JCrBZqf-1" style="shape=card;whiteSpace=wrap;html=1;" value="- Parametri sensori&lt;div&gt;- Parametri App DT&lt;br&gt;&lt;div&gt;- Intervallo del SW piattaforma telemonitoraggio&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="140" x="150" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-17" parent="QSOpgeNHwHHf_JCrBZqf-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.25;" value="- Pacchetto di dati" vertex="1">
+          <mxGeometry height="80" width="120" x="342.33" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-18" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-16" style="endArrow=classic;html=1;rounded=0;exitX=0.734;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300.33" y="290" as="sourcePoint" />
+            <mxPoint x="350.33" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-19" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-10" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580.3299999999999" y="500" as="sourcePoint" />
+            <mxPoint x="630.3299999999999" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-20" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="QSOpgeNHwHHf_JCrBZqf-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-21" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="110" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-22" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="START" vertex="1">
+          <mxGeometry height="30" width="60" x="100.17" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-23" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="278" y="1080" as="sourcePoint" />
+            <mxPoint x="518" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-24" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="2600" as="sourcePoint" />
+            <mxPoint x="280" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-25" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="2600" as="sourcePoint" />
+            <mxPoint x="520.0000000000001" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-26" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="278" y="1120" as="sourcePoint" />
+            <mxPoint x="518" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-27" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DT" vertex="1">
+          <mxGeometry height="40" width="240" x="280" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-28" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-29" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="619.75" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-30" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;pz che da&#39; disponibilità al servizio, viene visitato e valutato da team vario e specializzato&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;supporto a domicilio --&amp;gt; no eventi critici con bisogno immediato, ma monitorare lo stato clinico del pz per fare in modo che possa essere individuato in modo precoce una sostanziale variaizione ch ese non interecettata potrebbe portare ad un vevento critico (ARANCIONE)&lt;/div&gt;&lt;div&gt;team finisce l&#39;insieme dei servizi gisuti per lo spcifico pz, poi incontra il pz, durante l&#39;incontro spiegano al pz il piano adatto per fornire assisatenza migliore (situa in cui il pz può ancora discutere: decidere se volere un servizio o meno, oppure negazione)&lt;/div&gt;&lt;div&gt;incontro si chiude con pz che accetta il piano proposto + piano di riferimento&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PROCESSO 1: pz arriv al centro per ATTIVARE I SERVIZI SCELTI (trigger primo processo)&lt;/div&gt;&lt;div&gt;medico di riferimento fa 2 cose: attiva cartella specialistica e attiva il DT (crea cartella e inserire dati iniziali --&amp;gt; prende i dati&amp;nbsp; dalla cartella del dentro)&lt;/div&gt;&lt;div&gt;fino quiabbiamo SOLO UNA CARTELLA PAZIENTI CENTRO (dati delle visite per assesment multidimensionale)&amp;nbsp;&lt;/div&gt;&lt;div&gt;medico manda poi pz dal tecnico del telemonitoraggio&lt;/div&gt;&lt;div&gt;tecnico attiva il telemon fornendo sensori al pz e attivando la piattaforma tele + collega piattaforma alla cartella specialistica&lt;/div&gt;&lt;div&gt;NB: la cartella centro raccoglie tutte le info del pz, anche quelle che non centrano con il telemon&lt;/div&gt;&lt;div&gt;ASSISTENZA DOMICILIARE INVECE 3 SW diversi: cartella specialistica (cartella assistenziale) che avrà una sua base dati; il DT; piattaforma telemonitoraggio; questi 3 SW dialogano tra di loro&lt;/div&gt;&lt;div&gt;ATTIVAZIONE DI UNA CARTELLA: crearla, dati anagrafici, indirizzo (IMPORTANTE), numero di telefono, riferimenti di persone da contattare (care giver), parte info raccolte durante la visita multidimensionale&lt;/div&gt;&lt;div&gt;attivata la cartella assistenziale, si attiva il DT che riceve dei dati (ma non tutti quelli della cartella): dati utili alla gestione dei software che lo compongono (APP per diario clinico ecc, poi abbiamo sw del sistema alert)&lt;/div&gt;&lt;div&gt;PIATTAFORMA TELEMONITORAGGIO lavora per conto suo, usato e riversa dei dati nella cartella spec&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PROCESSO 2: medico con una certa cadenza (es: sett) fa una verifica dello stato del pz&lt;/div&gt;&lt;div&gt;apre la cartella spec in cui sono finiti i dati che arrivano dal DT e dalla PIATTAFORMA DEL TELE&lt;/div&gt;&lt;div&gt;UML: come vengono proprosti i dati visto che sono tanti?&lt;/div&gt;&lt;div&gt;medico chiude con stato clinico stabile o non stabile&lt;/div&gt;&lt;div&gt;se non stabile, potrebbe decidere di modificare indicazioni al pz su quando misurarsi certi parametri (cambiare freq con cui vengon oacquisiti i parametri), oppure fare un incontro col pz per valutare la situazione&lt;/div&gt;&lt;div&gt;modifciare il DT= cambiare i rate&amp;nbsp; con cui i parametri vengono acquisiti + mandare messaggio al pz per concordare una visita&lt;/div&gt;&lt;div&gt;NON C&#39;ENTRA IL MONITORAGGIO!!!&lt;/div&gt;&lt;div&gt;ci sono solo 2 attori: medico e cartella spec&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PROCESSO 3: TUTTO NEL DT E PERMETTE AL PZ DI FORNIRE INFO&lt;/div&gt;&lt;div&gt;pz compila diario clinico quando gli è stato detto di farlo&lt;/div&gt;&lt;div&gt;DIARIO CLINICO = dare info sul suo stato di salute e su attività correlate: movimento, attività fisica&lt;/div&gt;&lt;div&gt;MONITORAGGIO MANUALE: parametri che NON sono gestiti dalla piattaforma del teel (prende dati in continuità dai sensori)&lt;/div&gt;&lt;div&gt;NOTE =esempio caricare referti di visite specialistiche&lt;/div&gt;&lt;div&gt;APP da&#39; menù tra cui scegliere (no credenziali) tra 3 possibilità&lt;/div&gt;&lt;div&gt;NO TELE!!!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PROCESSO 4: come i dati che arrivano da un monitoraggio continuo come possono essere usati&lt;/div&gt;&lt;div&gt;chiediamo alla piattaforma tele ogni tot di aggregare dati di un certo parametro e li rappresenta vcon 1 o 2 valori (assenza/presenza trend, valore medio ecc), questa elaborazione va a finire nella cartella assistenziale e viene passata anche al DT nel momento in cui questi dati vengono usati dal sistema alert&lt;/div&gt;&lt;div&gt;NO MONITORAGGIO SENSORI MA COME I DATI VENGONO PASSATI ALLA CARTELLA E AL DT&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PROCESSO 5: fa l&#39;analogo del medico nel processo 2 ma lo fa basandosi sul sistema di machine learning, AI&lt;/div&gt;&lt;div&gt;sistema automatico quindi valuta più spesso del medico (ogni giorno fa la valutazione ad una certa ora)&lt;/div&gt;&lt;div&gt;estrarre tutti i valori della variabili che servono come input del sistema basato su AI&lt;/div&gt;&lt;div&gt;il sistema NON ha soglie ne&#39; regole, SOLO input e output&amp;nbsp;&lt;/div&gt;&lt;div&gt;OUTPUT = stato clinico stabile/ non stabile&lt;/div&gt;&lt;div&gt;per fornire una segnalazione i lrisultato va interpretato, il risultato potrebbe essere corretto, evoluzione lenta ( non basta una volta sola in cui lo stati clinico non sia stabile)&lt;/div&gt;&lt;div&gt;risposta memorizzata nella base dati del DT&lt;/div&gt;&lt;div&gt;NB: il sistem alert è una parte del DT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="1000" width="1480" x="1400" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-31" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="518" y="1080" as="sourcePoint" />
+            <mxPoint x="759.17" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-32" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="518" y="1120" as="sourcePoint" />
+            <mxPoint x="759.17" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-33" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SW Piattaforma Telemonitoraggio" vertex="1">
+          <mxGeometry height="40" width="240" x="520" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-34" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="760" y="2600" as="sourcePoint" />
+            <mxPoint x="759.17" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-35" parent="QSOpgeNHwHHf_JCrBZqf-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;SW Cartella&lt;/div&gt;&lt;div&gt;Specilistica&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="399" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-36" parent="QSOpgeNHwHHf_JCrBZqf-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;SW Piattaforma&amp;nbsp;&lt;/div&gt;&lt;div&gt;Telemonitoraggio&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="560" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-37" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="250" as="sourcePoint" />
+            <mxPoint x="480" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-38" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=classic;html=1;rounded=0;entryX=0.762;entryY=0.079;entryDx=0;entryDy=0;entryPerimeter=0;" target="QSOpgeNHwHHf_JCrBZqf-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="250" as="sourcePoint" />
+            <mxPoint x="500" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-39" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-40" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="SW Piattaforma Telemonitoraggio riceve continuamente i dati" vertex="1">
+          <mxGeometry height="80" width="120" x="250" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-41" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-42" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="512" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-43" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="518.5" y="680.2105263157895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-44" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="SW Piattaforma Telemonitoarggio aggrega i dati in pacchetti trasmissibili" vertex="1">
+          <mxGeometry height="80" width="121.79" x="727" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-45" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1252" y="680" />
+              <mxPoint x="1252" y="736" />
+              <mxPoint x="80" y="736" />
+              <mxPoint x="80" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-46" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="1062" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-47" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;PROCESSO 4 NON E&#39; ALTRO CHE UN TRASFERIMENTO E SALVATAGGIO DATI NEI DUE DATABSE DIVERSI (CARTELLA ASSISTENZIALE E DT)&lt;/div&gt;&lt;div&gt;POI NEL PROCESSO 2 E 5 VENGONO ESAMINATI I DATI PER POTER FARE I CONTROLLI (POV MEDICO E POV DT)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="390" x="930" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-48" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="80" x="120.17" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-49" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-48" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="QSOpgeNHwHHf_JCrBZqf-48" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230.17" y="930" as="sourcePoint" />
+            <mxPoint x="280.17" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-50" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-48" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160.17" y="860" as="sourcePoint" />
+            <mxPoint x="300.17" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-51" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-48" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160.17" y="860" as="sourcePoint" />
+            <mxPoint x="280.17" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-52" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-53" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="SW Piattaforma di Telemoniraggio invia i pacchetti di dati aggregati al SW Cartella Specialistica" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-54" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-55" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="241.49999999999997" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-56" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-57" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="240.32999999999998" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-58" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-48" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-55" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="820" as="sourcePoint" />
+            <mxPoint x="250" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-59" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-48" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-57" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="190" y="970" as="sourcePoint" />
+            <mxPoint x="240" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-60" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-61" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="SW Piattaforma di Telemonitoraggio invia i pacchetti di dati aggregati al DT&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-62" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-63" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="478.5" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-64" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-65" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="478.5" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-66" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-67" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="SW Cartella Specialistica salva i dati ricevuti" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-68" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-69" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="DT salva i dati ricevuti" vertex="1">
+          <mxGeometry height="60" width="120" x="558.5" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-70" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-71" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" value="" vertex="1">
+          <mxGeometry height="60" width="80" x="800" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-72" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-71" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="QSOpgeNHwHHf_JCrBZqf-71" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="910" y="930" as="sourcePoint" />
+            <mxPoint x="960" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-73" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-71" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="840" y="860" as="sourcePoint" />
+            <mxPoint x="980" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-74" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-71" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="840" y="860" as="sourcePoint" />
+            <mxPoint x="960" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-75" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="720" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-76" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="720" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-77" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-76" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-71" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="777" y="1010" as="sourcePoint" />
+            <mxPoint x="827" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-78" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-75" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-71" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="790" y="810" as="sourcePoint" />
+            <mxPoint x="840" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-79" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="1240" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-80" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="END" vertex="1">
+          <mxGeometry height="30" width="60" x="1230" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-81" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="2600" as="sourcePoint" />
+            <mxPoint x="38.5" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-82" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="39.569999999999936" y="1080" as="sourcePoint" />
+            <mxPoint x="280.7399999999999" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-83" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="39.569999999999936" y="1120" as="sourcePoint" />
+            <mxPoint x="280.7399999999999" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-84" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SW-Cartella Specilistica" vertex="1">
+          <mxGeometry height="40" width="240" x="39.569999999999936" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-85" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-86" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Riceve in continuazione i dati dei parametri fisiologici&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="579.75" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-87" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200.0000000000002" y="860" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-88" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-89" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="SW Cartella Specilistica riceve i dati elaborati dal DT" vertex="1">
+          <mxGeometry height="60" width="120" x="920" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-90" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="in questo processo si parla solamente di dati aggregati e non di dati elaborati (fatta eccezione per l&#39;ultimo evento) (i dati elaborati riguardano il processo 5)" vertex="1">
+          <mxGeometry height="120" width="300" x="1050" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-91" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.514;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="638.9" y="1420" as="sourcePoint" />
+            <mxPoint x="640.5799999999999" y="1459.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-92" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Raggiunge il massimo valore di dati di un certo parametro fisiologico che possono essere contenuti in un pacchetto" vertex="1">
+          <mxGeometry height="80" width="139.5" x="570" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-93" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-94" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aggrega i dati in pacchetti trasmissibiili" vertex="1">
+          <mxGeometry height="60" width="120" x="579.75" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-95" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="1650" />
+              <mxPoint x="280" y="1650" />
+            </Array>
+            <mxPoint x="280" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-96" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Invia i pacchetti di dati aggregati" vertex="1">
+          <mxGeometry height="60" width="120" x="579.75" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-97" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;fontStyle=0;strokeWidth=5;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="1680" as="sourcePoint" />
+            <mxPoint x="480" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-98" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-99" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Riceve i pacchetti di dati aggregati riguardanti un dato parametro fisiologico del paziente" vertex="1">
+          <mxGeometry height="80" width="120" x="100.17" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-100" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-101" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Riceve i pacchetti di dati aggregati riguardanti un dato parametro fisiologico del paziente" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-102" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-99" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="1680" as="sourcePoint" />
+            <mxPoint x="200" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-103" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="399.86" y="1680" as="sourcePoint" />
+            <mxPoint x="399.86" y="1720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-104" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="QSOpgeNHwHHf_JCrBZqf-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-105" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rileva di quale parametro fisiologico si tratta" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-106" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="QSOpgeNHwHHf_JCrBZqf-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-107" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sceglie dove salvare i dati in base al parametro rilevato" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-108" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160.06849315068496" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-109" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Salva i dati" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-110" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-111" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rileva di quale parametro fisiologico si tratta" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-112" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-113" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sceglie dove salvare i dati in base al parametro rilevato" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-114" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400.06849315068496" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-115" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Salva i dati" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-116" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=none;html=1;rounded=0;fontStyle=0;strokeWidth=5;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80.28999999999999" y="2140" as="sourcePoint" />
+            <mxPoint x="480.28999999999996" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-117" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="SW Cartella Specialistica esegue un nuovo salvataggio" vertex="1">
+          <mxGeometry height="60" width="120" x="1080" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-118" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-119" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="54.5" x="132.75" y="2185" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-120" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-119" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="2140" as="sourcePoint" />
+            <mxPoint x="220" y="2150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-121" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="20" width="20" x="109" y="2180" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-122" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sì" vertex="1">
+          <mxGeometry height="20" width="20" x="187.25" y="2180" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-123" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-124" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Preleva i dati dello specifico parametro fisiologico elaborati dal Sistem Alert&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="2170" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-125" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-126" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Invia i dati" vertex="1">
+          <mxGeometry height="30" width="100" x="350" y="2270" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-127" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-128" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Riceve i dati" vertex="1">
+          <mxGeometry height="30" width="100" x="110" y="2350" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-129" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-130" parent="QSOpgeNHwHHf_JCrBZqf-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Salva i nuovi dati elaborati nello stesso luogo dei dati aggiunti al passaggio precedente" vertex="1">
+          <mxGeometry height="80" width="120" x="100" y="2420" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-131" parent="QSOpgeNHwHHf_JCrBZqf-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;gradientColor=none;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="140" y="2540" as="geometry" />
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-132" edge="1" parent="QSOpgeNHwHHf_JCrBZqf-1" source="QSOpgeNHwHHf_JCrBZqf-119" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QSOpgeNHwHHf_JCrBZqf-131" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="2200" />
+              <mxPoint x="80" y="2560" />
+            </Array>
+            <mxPoint x="80" y="2330" as="sourcePoint" />
+            <mxPoint x="80" y="2560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSOpgeNHwHHf_JCrBZqf-133" parent="QSOpgeNHwHHf_JCrBZqf-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;DT può essere un&#39;unica applicazione, ma in generale composto da più SW&lt;/div&gt;&lt;div&gt;COstituito da tanti pezzi anche diversi: possono esserci aplicazioni legate all&#39;AI, possono esserci sensori (NB: SW Telemonitoraggio non è all&#39;interno del DG, ma anzi è esterna con un proprio database&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SCHEDA PAZIENTE inizializzata e aggiornata dal medico, fa parte del DT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ASSISTENZA DOMICILIARE: intorno a cosa facciamo il DT, modello ragiona intorno alle attività di assistenza domiciliare, NON E&#39; UN MODELLO DEL PZ!!&lt;/div&gt;&lt;div&gt;Obiettivo: ci aspettiamo che il DT faccia cosa???&lt;/div&gt;&lt;div&gt;Parliamo di un pz cronico, non ha rapporto molto frequente con il medico, ha il DT come intermediario tra lui e il medico&lt;/div&gt;&lt;div&gt;Ma A COSA SERVE l&#39;intermediario??? Monitoriamo lo stato di salute ma non cambiamenti repentini del suo stato di salute, bensì cambiamenti LENTI (per quelli veloci ci pensa il 118 oppure il SW telemonitoraggio)&lt;/div&gt;&lt;div&gt;Intermediario fa sì che non si rrivi al momento critico&lt;/div&gt;&lt;div&gt;i dati acquisiti hanno come obiettivo dire: non avere necessità di un rapporto frequente con il proprio medico e far sì che, con visite più dilazionate, il cambiamento non venga intercettato prima dal 118&lt;/div&gt;&lt;div&gt;Monitoraggio giornaliero di una serie di parametri fa sì che io possa vedere l&#39;arrivo di un evento critico&lt;/div&gt;&lt;div&gt;INTERCETTARE PRECOCEMENTE VARIAZIONI LENTE DELLO STATO CLINICO DEL PZ&lt;/div&gt;&lt;div&gt;variazioni di parametri fisiologici: allarmi legati alla piattaforma di telemonitoraggio (è questa che manda allarmi nel caso in cui qualcosa non andasse bene)&lt;/div&gt;&lt;div&gt;Ci permette di vedere se lo stato clinico del paziente, prima ancora che il pz se ne accorga&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 Use Case Diagram&lt;/div&gt;&lt;div&gt;parto dai Synopsis: 1) inserimento pz nel percorso di assistenza domiciliare, 2)valutazioen stato clinico pz, 3)app per innserimento dati da parte del pz, 4)dati da piattaforma telemonitoraggio, 5) valutazione automatica stato clinico pz&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Non preoccupatevi di log in e log out&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="450" width="1590" x="1350" y="2010" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tegRuMY2n7UQiFq5XQOp" name="UML">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nurqInz6QJsvVkMNu5te-1" value="&lt;div&gt;USE CASE DIAGRAM&lt;/div&gt;&lt;div&gt;PROCESSO 4&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="224" y="40" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NOqEzFxIh7NQyGLSkBwC-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="480" as="sourcePoint" />
+            <mxPoint x="160" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NOqEzFxIh7NQyGLSkBwC-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="480" as="sourcePoint" />
+            <mxPoint x="440" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NOqEzFxIh7NQyGLSkBwC-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="160" as="sourcePoint" />
+            <mxPoint x="440" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NOqEzFxIh7NQyGLSkBwC-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="480" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G1aDKwJYIinjxGwZuf-b-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="240" as="sourcePoint" />
+            <mxPoint x="480" y="213.33333333333337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YxuL5cpNg2LIPwUSt1hI-1" value="&lt;div&gt;SW Piattaforma&lt;/div&gt;&lt;div&gt;Telemonitoraggio&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YxuL5cpNg2LIPwUSt1hI-2" value="Invio dei dati di specifico parametro fisiologico" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4AobMzhFeALrtZ9D8OaW-1" value="&lt;div&gt;SW Cartella&lt;/div&gt;&lt;div&gt;Specialistica&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R9m4D54k5WkHq41wZ4C0-1" value="Ricezione dei dati elaborati di uno specifico parametro fisiologico" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9m4D54k5WkHq41wZ4C0-2" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R9m4D54k5WkHq41wZ4C0-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="460" as="sourcePoint" />
+            <mxPoint x="460" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="visg8k-iuvVrfevMkllc-1" value="&lt;div&gt;ACTIVITY DIAGRAM&lt;/div&gt;PROCESSO 4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="270" y="585" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="visg8k-iuvVrfevMkllc-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="720" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="visg8k-iuvVrfevMkllc-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MItrZogiOzz1m3_IHcgP" name="ACTIVITY DIAGRAM">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cv6l8Z5ON-wXwxbvTh6O-3" edge="1" parent="1" source="cY5AvIyzI_BvCKmr3qI2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cY5AvIyzI_BvCKmr3qI2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cY5AvIyzI_BvCKmr3qI2-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="1040" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YBrHkd3TBpexie1wfGxO-3" edge="1" parent="1" source="cY5AvIyzI_BvCKmr3qI2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YBrHkd3TBpexie1wfGxO-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cY5AvIyzI_BvCKmr3qI2-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SW Cartella Specialistica accede al Data Base del DT" vertex="1">
+          <mxGeometry height="60" width="120" x="1000" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cY5AvIyzI_BvCKmr3qI2-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;ACTIVITY DIAGRAM: Scambio dati&amp;nbsp;elaborati&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="480" x="840" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="QnxoYxkiuQeS6Enkmuc4-3" edge="1" parent="1" source="Cv6l8Z5ON-wXwxbvTh6O-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Cv6l8Z5ON-wXwxbvTh6O-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv6l8Z5ON-wXwxbvTh6O-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SW Cartella Specilisitca salva i dati del &quot;Diario Clinico&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="1121" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="QnxoYxkiuQeS6Enkmuc4-4" edge="1" parent="1" source="Cv6l8Z5ON-wXwxbvTh6O-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Cv6l8Z5ON-wXwxbvTh6O-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv6l8Z5ON-wXwxbvTh6O-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SW Cartella Specilisitca salva i dati delle &quot;Eventuali note&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="1121" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="QnxoYxkiuQeS6Enkmuc4-5" edge="1" parent="1" source="Cv6l8Z5ON-wXwxbvTh6O-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QnxoYxkiuQeS6Enkmuc4-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv6l8Z5ON-wXwxbvTh6O-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SW Cartella Specilisitca salva i dati del &quot;Dati di monitoraggio&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="1121" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="YBrHkd3TBpexie1wfGxO-5" edge="1" parent="1" source="YBrHkd3TBpexie1wfGxO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YBrHkd3TBpexie1wfGxO-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBrHkd3TBpexie1wfGxO-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Comparazione tra DB SW Cartella Specialistica&lt;/div&gt;&lt;div&gt;e DB del DT&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1000" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="YBrHkd3TBpexie1wfGxO-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UML&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="1030" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="QnxoYxkiuQeS6Enkmuc4-2" edge="1" parent="1" source="YBrHkd3TBpexie1wfGxO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Cv6l8Z5ON-wXwxbvTh6O-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QnxoYxkiuQeS6Enkmuc4-9" edge="1" parent="1" source="YBrHkd3TBpexie1wfGxO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QnxoYxkiuQeS6Enkmuc4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBrHkd3TBpexie1wfGxO-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="80" x="1020" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QnxoYxkiuQeS6Enkmuc4-12" edge="1" parent="1" source="QnxoYxkiuQeS6Enkmuc4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="YBrHkd3TBpexie1wfGxO-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1181" y="820" />
+              <mxPoint x="1330" y="820" />
+              <mxPoint x="1330" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QnxoYxkiuQeS6Enkmuc4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SW Cartella Specilistica savla l&#39;esito del Sistem Alert" vertex="1">
+          <mxGeometry height="60" width="120" x="1121" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="QnxoYxkiuQeS6Enkmuc4-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Diversi" vertex="1">
+          <mxGeometry height="30" width="40" x="1100" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="QnxoYxkiuQeS6Enkmuc4-8" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="920" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="QnxoYxkiuQeS6Enkmuc4-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Uguali" vertex="1">
+          <mxGeometry height="20" width="40" x="970" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
